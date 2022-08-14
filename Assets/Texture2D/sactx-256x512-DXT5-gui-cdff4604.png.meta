@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 3d68b1dda5a6ce04cba14cd2ea18d328
+timeCreated: 1660427662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icon-dance
+    21300002: hud-player-plasma-15
+    21300004: icon-social-following
+    21300006: hud-button-chat
+    21300008: icon-profile-achievements
+    21300010: button-mini-offline
+    21300012: icon-peep
+    21300014: button-mini-options
+    21300016: white
+    21300018: icon-social-local
+    21300020: icon-profile-stats
+    21300022: button-mini-options-highlight
+    21300024: icon-marker
+    21300026: icon-skill-engineering
+    21300028: icon-portal-blue
+    21300030: icon-death
+    21300032: icon-tab-search
+    21300034: icon-sign
+    21300036: icon-wardrobe
+    21300038: icon-guild
+    21300040: icon-lock-small
+    21300042: icon-gem
+    21300044: button-help
+    21300046: hud-button-extra-gold
+    21300048: icon-peeps
+    21300050: slider-knob
+    21300052: hud-player-steam
+    21300054: hud-button-messages
+    21300056: icon-profile-skills
+    21300058: hud-menu-cap
+    21300060: icon-skill-building
+    21300062: icon-dish
+    21300064: icon-portal-orange
+    21300066: icon-profile-avatar
+    21300068: wardrobe-footwear
+    21300070: hotbar-group-icon
+    21300072: check-bullet
+    21300074: icon-social-followers
+    21300076: button-online
+    21300078: checkbox-checked
+    21300080: icon-gun
+    21300082: icon-world
+    21300084: icon-home
+    21300086: icon-skill-stamina
+    21300088: icon-swirl
+    21300090: checkbox-unchecked
+    21300092: hud-button-shop
+    21300094: hud-button-social
+    21300096: wardrobe-facialhair
+    21300098: icon-profile-equipment
+    21300100: icon-person
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon-dance
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 188.0513
+        width: 41.89713
+        height: 47.9124
+      alignment: 9
+      pivot: {x: 0.5244572, y: 0.5207145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.97531, y: -21.00752}
+        - {x: -20.97531, y: -14.00752}
+        - {x: -20.97531, y: -5.007517}
+        - {x: -11.97531, y: 15.99248}
+        - {x: -6.975313, y: 23.99248}
+        - {x: 1.024687, y: 23.99248}
+        - {x: 21.02469, y: 13.99248}
+        - {x: 21.02469, y: -24.00752}
+        - {x: -15.97531, y: -24.00752}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5621a6d1cb7541339d02282df1fc7d0a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-player-plasma-15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 64
+        height: 1
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -0.5}
+        - {x: -32, y: 0.5}
+        - {x: 32, y: 0.5}
+        - {x: 32, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ed5a4919345b3b498195967954e49
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-social-following
+      rect:
+        serializedVersion: 2
+        x: 105.0761
+        y: 161.0761
+        width: 44.89713
+        height: 45.84776
+      alignment: 9
+      pivot: {x: 0.5105868, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.52468, y: -23}
+        - {x: -22.52468, y: -6.999998}
+        - {x: -22.52468, y: 20}
+        - {x: -15.52468, y: 23}
+        - {x: -5.524683, y: 23}
+        - {x: -0.524683, y: 16}
+        - {x: 0.475317, y: 9.000002}
+        - {x: 0.475317, y: 15}
+        - {x: -1.524683, y: 20}
+        - {x: 4.475317, y: 23}
+        - {x: 21.47532, y: 23}
+        - {x: 22.47532, y: 18}
+        - {x: 22.47532, y: 1.907349E-06}
+        - {x: 16.47532, y: -12}
+        - {x: 9.475317, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a9d8ddb0a44f3be4ac77764ea64db
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-button-chat
+      rect:
+        serializedVersion: 2
+        x: 44.01291
+        y: 387.0268
+        width: 41.91096
+        height: 37.92194
+      alignment: 9
+      pivot: {x: 0.5007541, y: 0.4739539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.968393, y: -18.98772}
+        - {x: -20.96839, y: -18.98772}
+        - {x: -20.96839, y: 19.01228}
+        - {x: 20.03161, y: 19.01228}
+        - {x: 21.03161, y: 13.01228}
+        - {x: 21.03161, y: -10.98772}
+        - {x: 17.03161, y: -14.98772}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3a3d17020462690cdf4d8cff4e562
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-profile-achievements
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 332.0761
+        width: 37.89713
+        height: 46.86415
+      alignment: 9
+      pivot: {x: 0.5006514, y: 0.489156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.97531, y: -22.5082}
+        - {x: -18.97531, y: -15.5082}
+        - {x: -18.97531, y: 21.4918}
+        - {x: -16.97531, y: 23.4918}
+        - {x: 12.02469, y: 23.4918}
+        - {x: 19.02469, y: 21.4918}
+        - {x: 19.02469, y: -5.508196}
+        - {x: 12.02469, y: -23.5082}
+        - {x: -14.97531, y: -23.5082}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581344156b594ce29dd21355fd96d0d2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-mini-offline
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 431.0268
+        width: 34.89713
+        height: 33.9465
+      alignment: 9
+      pivot: {x: 0.4992927, y: 0.485271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.524683, y: -17}
+        - {x: -17.52468, y: -7.999999}
+        - {x: -17.52468, y: 7.000002}
+        - {x: -8.524683, y: 17}
+        - {x: 13.47532, y: 17}
+        - {x: 17.47532, y: 7.000002}
+        - {x: 17.47532, y: -9.999998}
+        - {x: 15.47532, y: -13}
+        - {x: 4.475317, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a2963725d4891b72dd6965b80c1aa
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-peep
+      rect:
+        serializedVersion: 2
+        x: 96.07612
+        y: 305.0761
+        width: 39.84776
+        height: 42.87257
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4880482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -21.5124}
+        - {x: -20, y: -21.5124}
+        - {x: -20, y: -3.512403}
+        - {x: -11, y: 15.4876}
+        - {x: -7.999998, y: 21.4876}
+        - {x: 7.000002, y: 21.4876}
+        - {x: 14, y: 19.4876}
+        - {x: 20, y: -1.512403}
+        - {x: 20, y: -19.5124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305fdb342074635b793a137340b50a0
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-mini-options
+      rect:
+        serializedVersion: 2
+        x: 64.07612
+        y: 451.0761
+        width: 23.89713
+        height: 24.84776
+      alignment: 9
+      pivot: {x: 0.5198901, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.02468, y: -12.5}
+        - {x: -12.02468, y: -7.5}
+        - {x: -12.02468, y: 11.5}
+        - {x: -11.02468, y: 12.5}
+        - {x: 6.975315, y: 12.5}
+        - {x: 11.97532, y: 11.5}
+        - {x: 11.97532, y: -8.5}
+        - {x: 6.975315, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1e030b7b447d096095963ec2a6281
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ffe6566c642e1a69b1eff5db9e329
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-social-local
+      rect:
+        serializedVersion: 2
+        x: 138.0761
+        y: 406.0761
+        width: 30.85998
+        height: 42.89713
+      alignment: 9
+      pivot: {x: 0.5160041, y: 0.5110804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.506112, y: -21.52468}
+        - {x: -15.50611, y: -12.52468}
+        - {x: -15.50611, y: 15.47532}
+        - {x: -7.506112, y: 21.47532}
+        - {x: 11.49389, y: 21.47532}
+        - {x: 15.49389, y: 11.47532}
+        - {x: 15.49389, y: -5.524683}
+        - {x: 5.493888, y: -21.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b3ca86b824b96b7f7abbba47eb8bd
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-profile-stats
+      rect:
+        serializedVersion: 2
+        x: 140.0267
+        y: 305.0761
+        width: 39.89713
+        height: 39.88097
+      alignment: 9
+      pivot: {x: 0.5507477, y: 0.474509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.97531, y: -19.01661}
+        - {x: -19.97531, y: -11.01661}
+        - {x: -19.97531, y: 0.9833927}
+        - {x: -17.97531, y: 4.983393}
+        - {x: -8.975313, y: 19.98339}
+        - {x: 16.02469, y: 19.98339}
+        - {x: 20.02469, y: 18.98339}
+        - {x: 20.02469, y: -6.016607}
+        - {x: 19.02469, y: -10.01661}
+        - {x: 12.02469, y: -20.01661}
+        - {x: -4.975313, y: -20.01661}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3d580e78140ca97187cd84e6d4e9a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-mini-options-highlight
+      rect:
+        serializedVersion: 2
+        x: 184.0761
+        y: 313.0268
+        width: 34.89713
+        height: 33.9465
+      alignment: 9
+      pivot: {x: 0.4992927, y: 0.485271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.524683, y: -17}
+        - {x: -17.52468, y: -7.999999}
+        - {x: -17.52468, y: 7.000002}
+        - {x: -8.524683, y: 17}
+        - {x: 13.47532, y: 17}
+        - {x: 17.47532, y: 7.000002}
+        - {x: 17.47532, y: -9.999998}
+        - {x: 15.47532, y: -13}
+        - {x: 4.475317, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176337aad2b41e8949c00dae6776d24
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-marker
+      rect:
+        serializedVersion: 2
+        x: 127.0267
+        y: 352
+        width: 28.9465
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4481803, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -9}
+        - {x: -14.5, y: 0}
+        - {x: -14.5, y: 25}
+        - {x: 14.5, y: 25}
+        - {x: 14.5, y: 4}
+        - {x: 8.500001, y: -25}
+        - {x: -4.499999, y: -25}
+        - {x: -5.499999, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047b7155eff41da8ea482545732e285
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-skill-engineering
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54.06212
+        width: 58.92388
+        height: 39.90438
+      alignment: 9
+      pivot: {x: 0.5091315, y: 0.4745816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.46194, y: -19.01431}
+        - {x: -29.46194, y: -16.01431}
+        - {x: -29.46194, y: 3.985693}
+        - {x: -23.46194, y: 17.98569}
+        - {x: -13.46194, y: 19.98569}
+        - {x: 13.53806, y: 19.98569}
+        - {x: 23.53806, y: 8.985693}
+        - {x: 29.53806, y: -10.01431}
+        - {x: 29.53806, y: -20.01431}
+        - {x: -13.46194, y: -20.01431}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b17f536e914ae0845d138b5530cd39
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-portal-blue
+      rect:
+        serializedVersion: 2
+        x: 59.07612
+        y: 154
+        width: 41.84776
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -25}
+        - {x: -21, y: -25}
+        - {x: -21, y: -7}
+        - {x: -17, y: 25}
+        - {x: 15, y: 25}
+        - {x: 21, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6374afd3104c85bf2afd6c812c34cb
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-death
+      rect:
+        serializedVersion: 2
+        x: 169.0761
+        y: 95
+        width: 42.84776
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4883308, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -25}
+        - {x: -21.5, y: -15}
+        - {x: -21.5, y: 25}
+        - {x: 21.5, y: 25}
+        - {x: 21.5, y: -16}
+        - {x: 19.5, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059fed7798e4a50a1b96cf5e055ae99
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-tab-search
+      rect:
+        serializedVersion: 2
+        x: 52.02675
+        y: 0.02675098
+        width: 47.89713
+        height: 48.9465
+      alignment: 9
+      pivot: {x: 0.5005154, y: 0.5102153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.02469, y: -24.5}
+        - {x: -19.97531, y: -24.5}
+        - {x: -23.97531, y: -16.5}
+        - {x: -23.97531, y: 22.5}
+        - {x: -19.97531, y: 24.5}
+        - {x: 13.02469, y: 24.5}
+        - {x: 24.02469, y: 5.500002}
+        - {x: 24.02469, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbac5cd419467dad9a5fd0f8934b40
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-sign
+      rect:
+        serializedVersion: 2
+        x: 117.0761
+        y: 54
+        width: 47.84776
+        height: 48.92388
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.510998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -24.46194}
+        - {x: -24, y: -17.46194}
+        - {x: -24, y: 24.53806}
+        - {x: 24, y: 24.53806}
+        - {x: 24, y: -19.46194}
+        - {x: 9.000002, y: -24.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14c1ff0c50414f9a53c7b0263355a0
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-wardrobe
+      rect:
+        serializedVersion: 2
+        x: 184.0761
+        y: 264.0268
+        width: 31.84776
+        height: 44.89713
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.4671401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -22.47531}
+        - {x: -16, y: -22.47531}
+        - {x: -16, y: 0.5246868}
+        - {x: -15, y: 5.524687}
+        - {x: -11, y: 14.52469}
+        - {x: -3.999998, y: 22.52469}
+        - {x: 10, y: 22.52469}
+        - {x: 16, y: 9.524687}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2724229ee491e9948f177904f8c8b
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-guild
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 286.0268
+        width: 44.87257
+        height: 41.89713
+      alignment: 9
+      pivot: {x: 0.5108662, y: 0.4767212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.51241, y: -20.97531}
+        - {x: -22.51241, y: -10.97531}
+        - {x: -22.51241, y: 21.02469}
+        - {x: 22.48759, y: 21.02469}
+        - {x: 22.48759, y: -11.97531}
+        - {x: 20.48759, y: -17.97531}
+        - {x: 12.48759, y: -20.97531}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdef4117ca4461a29e7084f4b4e2c8
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-lock-small
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 423
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -17}
+        - {x: -13.5, y: 17}
+        - {x: 13.5, y: 17}
+        - {x: 13.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297006a59e934b3aa420b89755a8ac3e
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-gem
+      rect:
+        serializedVersion: 2
+        x: 98.02675
+        y: 211.0761
+        width: 40.93034
+        height: 43.84776
+      alignment: 9
+      pivot: {x: 0.5124133, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.49192, y: -15}
+        - {x: -20.49192, y: 3.000002}
+        - {x: -20.49192, y: 20}
+        - {x: -13.49192, y: 22}
+        - {x: 16.50808, y: 22}
+        - {x: 20.50808, y: 13}
+        - {x: 20.50808, y: 5.000002}
+        - {x: 14.50808, y: -13}
+        - {x: 9.50808, y: -22}
+        - {x: -1.49192, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0abf0375d547f2ada0f4ee87b6b08f
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-help
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 351
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -16, y: -12}
+        - {x: -16, y: 14}
+        - {x: -13, y: 16}
+        - {x: 12, y: 16}
+        - {x: 16, y: 9}
+        - {x: 16, y: -11}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687851c81d9444db710a1a665f2a27b
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-button-extra-gold
+      rect:
+        serializedVersion: 2
+        x: 169.0267
+        y: 55.02675
+        width: 63.9465
+        height: 35.90935
+      alignment: 9
+      pivot: {x: 0.507819, y: 0.5005172}
+      border: {x: 16.97325, y: 0, z: 15.97325, w: 0}
+      outline:
+      - - {x: -25, y: -17.98143}
+        - {x: -32, y: -13.98143}
+        - {x: -32, y: 17.01857}
+        - {x: -20, y: 18.01857}
+        - {x: 27, y: 18.01857}
+        - {x: 32, y: 14.01857}
+        - {x: 32, y: -8.981426}
+        - {x: 28, y: -17.98143}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48202ae47c49aeaf7a3b41740470ab
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-peeps
+      rect:
+        serializedVersion: 2
+        x: 145.0761
+        y: 228.0761
+        width: 47.88097
+        height: 31.84776
+      alignment: 9
+      pivot: {x: 0.5205383, y: 0.5313994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.01661, y: -16}
+        - {x: -24.01661, y: -8.999999}
+        - {x: -24.01661, y: 2.000001}
+        - {x: -22.01661, y: 13}
+        - {x: -17.01661, y: 16}
+        - {x: 23.98339, y: 16}
+        - {x: 23.98339, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36c946c3e341bd8670ef6d6e4ea0fc
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider-knob
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 387
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -16, y: -12}
+        - {x: -16, y: 14}
+        - {x: -13, y: 16}
+        - {x: 12, y: 16}
+        - {x: 16, y: 9}
+        - {x: 16, y: -11}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa143349891c48689a77486d6135b83b
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-player-steam
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208.0267
+        width: 42.97325
+        height: 43.97325
+      alignment: 9
+      pivot: {x: 0.5119464, y: 0.4996959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.51338, y: -22.01337}
+        - {x: -21.48662, y: -22.01337}
+        - {x: -21.48662, y: 16.98663}
+        - {x: -10.48662, y: 21.98663}
+        - {x: 17.51338, y: 21.98663}
+        - {x: 21.51338, y: 8.986626}
+        - {x: 21.51338, y: -18.01337}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72b38e16c549bd807ad7d103a3d94a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-button-messages
+      rect:
+        serializedVersion: 2
+        x: 42.05637
+        y: 348.0761
+        width: 49.86751
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.4801449, y: 0.4856519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.99013, y: -17.5}
+        - {x: -24.99013, y: -12.5}
+        - {x: -24.99013, y: 17.5}
+        - {x: 25.00987, y: 17.5}
+        - {x: 25.00987, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1712db0dc0b4d57b41906c72285ff96
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-profile-skills
+      rect:
+        serializedVersion: 2
+        x: 154.0761
+        y: 183.0761
+        width: 49.89713
+        height: 40.89713
+      alignment: 9
+      pivot: {x: 0.4995053, y: 0.4871707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.02468, y: -20.52468}
+        - {x: -25.02468, y: -11.52468}
+        - {x: -25.02468, y: 9.475317}
+        - {x: -23.02468, y: 20.47532}
+        - {x: 24.97532, y: 20.47532}
+        - {x: 24.97532, y: -9.524683}
+        - {x: 14.97532, y: -18.52468}
+        - {x: 5.975317, y: -20.52468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6505ab1ffbb4621932f1b430f98f523
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-menu-cap
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 27
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: -13.5, y: -30}
+        - {x: -13.5, y: 30}
+        - {x: 13.5, y: 30}
+        - {x: 13.5, y: -30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b0ebb3967a43788814fdf125aa1c4a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-skill-building
+      rect:
+        serializedVersion: 2
+        x: 208.0761
+        y: 183.0761
+        width: 42.84776
+        height: 45.84776
+      alignment: 9
+      pivot: {x: 0.5116693, y: 0.4563774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -23}
+        - {x: -21.5, y: -22}
+        - {x: -21.5, y: 5.000002}
+        - {x: -20.5, y: 19}
+        - {x: -19.5, y: 22}
+        - {x: -17.5, y: 23}
+        - {x: 13.5, y: 23}
+        - {x: 21.5, y: 20}
+        - {x: 21.5, y: -21}
+        - {x: 19.5, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de6b04fd2143a68d86e20cf1412edb
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-dish
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0.0761205
+        width: 46.92388
+        height: 49.92388
+      alignment: 9
+      pivot: {x: 0.5327778, y: 0.4992377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.53806, y: -25.03806}
+        - {x: -23.46194, y: -25.03806}
+        - {x: -23.46194, y: 15.96194}
+        - {x: -21.46194, y: 24.96194}
+        - {x: 23.53806, y: 24.96194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf17cf5c77443f2b668a7721d272c9c
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-portal-orange
+      rect:
+        serializedVersion: 2
+        x: 109.0761
+        y: 107
+        width: 41.84776
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4761039, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -25}
+        - {x: -21, y: -25}
+        - {x: -21, y: -7}
+        - {x: -17, y: 25}
+        - {x: 15, y: 25}
+        - {x: 21, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a2a66ca2f8455e8fd3c9b9cf6bda13
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-profile-avatar
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 240.0267
+        width: 45.84776
+        height: 41.95858
+      alignment: 9
+      pivot: {x: 0.5218114, y: 0.476023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -18.00604}
+        - {x: -23, y: -16.00604}
+        - {x: -23, y: 9.993961}
+        - {x: -22, y: 12.99396}
+        - {x: -8.999998, y: 20.99396}
+        - {x: 10, y: 20.99396}
+        - {x: 19, y: 14.99396}
+        - {x: 23, y: -1.006039}
+        - {x: 23, y: -14.00604}
+        - {x: 8.000002, y: -21.00604}
+        - {x: -6.999998, y: -21.00604}
+        - {x: -18, y: -18.00604}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79267877e228472497091660fdc7ea50
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe-footwear
+      rect:
+        serializedVersion: 2
+        x: 63.02675
+        y: 53.05132
+        width: 49.9465
+        height: 46.90578
+      alignment: 9
+      pivot: {x: 0.5800858, y: 0.446612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -23.5042}
+        - {x: -25, y: -22.5042}
+        - {x: -25, y: 0.4957962}
+        - {x: -6.999998, y: 23.4958}
+        - {x: 16, y: 23.4958}
+        - {x: 22, y: 19.4958}
+        - {x: 25, y: 11.4958}
+        - {x: 25, y: -19.5042}
+        - {x: 24, y: -23.5042}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1640e100044873832f4a814570bc05
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotbar-group-icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 60
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -8}
+        - {x: -30, y: 8}
+        - {x: 30, y: 8}
+        - {x: 30, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5b0b1193640449e41a6a1cba8d756
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check-bullet
+      rect:
+        serializedVersion: 2
+        x: 92.07612
+        y: 479.0761
+        width: 21.84776
+        height: 21.89713
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5445408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.999999, y: -11.02468}
+        - {x: -11, y: -8.024684}
+        - {x: -11, y: 4.975316}
+        - {x: -9.999999, y: 10.97532}
+        - {x: 5.000001, y: 10.97532}
+        - {x: 11, y: 4.975316}
+        - {x: 11, y: -5.024684}
+        - {x: 5.000001, y: -11.02468}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a45441f7b94f03ac41ca60def03ee2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-social-followers
+      rect:
+        serializedVersion: 2
+        x: 59.02675
+        y: 104.0267
+        width: 45.9465
+        height: 45.89713
+      alignment: 9
+      pivot: {x: 0.5217645, y: 0.47875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.814697E-06, y: -14.97531}
+        - {x: 2.000004, y: -19.97531}
+        - {x: -4.999996, y: -22.97531}
+        - {x: -20, y: -22.97531}
+        - {x: -23, y: -16.97531}
+        - {x: -23, y: -1.975313}
+        - {x: -12, y: 23.02469}
+        - {x: 10, y: 23.02469}
+        - {x: 22, y: 19.02469}
+        - {x: 23, y: 16.02469}
+        - {x: 23, y: -20.97531}
+        - {x: 21, y: -22.97531}
+        - {x: 8.000004, y: -22.97531}
+        - {x: 2.000004, y: -17.97531}
+        - {x: 1.000004, y: -14.97531}
+        - {x: 3.814697E-06, y: -9.975313}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8acafafcfe4147a2e3c69616647796
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-online
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 451
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -12}
+        - {x: -11, y: 12}
+        - {x: 11, y: 12}
+        - {x: 11, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe53ea73c944a44a51542aa4944c4e5
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox-checked
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ac2261a8043188fed4e5388b13bb4
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-gun
+      rect:
+        serializedVersion: 2
+        x: 90.07612
+        y: 416.0761
+        width: 43.8784
+        height: 30.89713
+      alignment: 9
+      pivot: {x: 0.4768606, y: 0.4830184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.015318, y: -15.52468}
+        - {x: -22.01532, y: -15.52468}
+        - {x: -22.01532, y: 8.475316}
+        - {x: -19.01532, y: 15.47532}
+        - {x: 18.98468, y: 15.47532}
+        - {x: 21.98468, y: 12.47532}
+        - {x: 21.98468, y: 10.47532}
+        - {x: 18.98468, y: -6.524684}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4020e0199284d15a37c08459302aa33
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-world
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 387.0268
+        width: 39.9465
+        height: 39.9465
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -12}
+        - {x: -20, y: -8.999998}
+        - {x: -20, y: 12}
+        - {x: -11, y: 20}
+        - {x: 12, y: 20}
+        - {x: 20, y: 11}
+        - {x: 20, y: -15}
+        - {x: 11, y: -20}
+        - {x: -14, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53defcc4255c49fd8761e118f53613f4
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-home
+      rect:
+        serializedVersion: 2
+        x: 98.07612
+        y: 259.0761
+        width: 42.84776
+        height: 41.84776
+      alignment: 9
+      pivot: {x: 0.4883308, y: 0.4761039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -21}
+        - {x: -21.5, y: -2.999998}
+        - {x: -21.5, y: 2.000002}
+        - {x: -2.499998, y: 21}
+        - {x: 10.5, y: 21}
+        - {x: 21.5, y: 10}
+        - {x: 21.5, y: -11}
+        - {x: 16.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b0c5cbed240d5b1d43b0e4b30bbc9
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-skill-stamina
+      rect:
+        serializedVersion: 2
+        x: 169.0267
+        y: 0.02675104
+        width: 45.9465
+        height: 50.9465
+      alignment: 9
+      pivot: {x: 0.4782356, y: 0.4901858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -25.5}
+        - {x: -23, y: -20.5}
+        - {x: -23, y: 19.5}
+        - {x: -22, y: 22.5}
+        - {x: -16, y: 25.5}
+        - {x: 17, y: 25.5}
+        - {x: 23, y: 23.5}
+        - {x: 23, y: -9.499998}
+        - {x: 11, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a81908951416087f70f652ca605e9
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-swirl
+      rect:
+        serializedVersion: 2
+        x: 49.02675
+        y: 301.0268
+        width: 41.89713
+        height: 42.91687
+      alignment: 9
+      pivot: {x: 0.5005893, y: 0.4886947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.97531, y: -21.48519}
+        - {x: -20.97531, y: -14.48519}
+        - {x: -20.97531, y: 10.51481}
+        - {x: -16.97531, y: 21.51481}
+        - {x: 9.024689, y: 21.51481}
+        - {x: 21.02469, y: 9.514812}
+        - {x: 21.02469, y: -11.48519}
+        - {x: 11.02469, y: -21.48519}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06221b31c90b41cdb90bd5b161424387
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox-unchecked
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41021eb4364eb6bac771f7893a90ff
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-button-shop
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 145.0761
+        width: 54.87257
+        height: 38.84776
+      alignment: 9
+      pivot: {x: 0.508886, y: 0.4871293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5124, y: -19.5}
+        - {x: -27.5124, y: -6.499998}
+        - {x: -27.5124, y: 5.500002}
+        - {x: -22.5124, y: 19.5}
+        - {x: 18.4876, y: 19.5}
+        - {x: 27.4876, y: 6.500002}
+        - {x: 27.4876, y: -0.4999981}
+        - {x: 23.4876, y: -17.5}
+        - {x: 21.4876, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ea1d9b7ce4304bf14fdac84ec1f29
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-button-social
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 98.07612
+        width: 52.9465
+        height: 42.84776
+      alignment: 9
+      pivot: {x: 0.5094435, y: 0.4883308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -21.5}
+        - {x: -26.5, y: -9.499998}
+        - {x: -26.5, y: 12.5}
+        - {x: -19.5, y: 21.5}
+        - {x: 20.5, y: 21.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -10.5}
+        - {x: 21.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9dab605cc43fc822d19c584029242
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe-facialhair
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 149.0761
+        width: 70
+        height: 29.87256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4326338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -15.0124}
+        - {x: -35, y: -13.0124}
+        - {x: -35, y: 12.9876}
+        - {x: -34, y: 14.9876}
+        - {x: 35, y: 14.9876}
+        - {x: 35, y: -14.0124}
+        - {x: 34, y: -15.0124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039441329bfb459682b6993b5431df2f
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-profile-equipment
+      rect:
+        serializedVersion: 2
+        x: 50.02675
+        y: 256.0268
+        width: 43.9465
+        height: 40.9465
+      alignment: 9
+      pivot: {x: 0.522755, y: 0.4389448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -20.5}
+        - {x: -22, y: -20.5}
+        - {x: -22, y: 2.500002}
+        - {x: -15, y: 20.5}
+        - {x: 12, y: 20.5}
+        - {x: 22, y: 14.5}
+        - {x: 22, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db89bfb721a749cdaf2b06e7f5b8e5f5
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-person
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 0
+        width: 47.84776
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -25}
+        - {x: -24, y: -19}
+        - {x: -24, y: 7}
+        - {x: -13, y: 25}
+        - {x: 11, y: 25}
+        - {x: 24, y: 5}
+        - {x: 24, y: -22}
+        - {x: 16, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6355fc3e69429bb3e6b23b1fdf5d85
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
